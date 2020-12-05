@@ -2,7 +2,7 @@
 timestamp ordering protocol based on DATABASE SYSTEM CONCEPTS Seventh Edition Abraham Silberschatz Yale University Henry F. Korth Lehigh University S. Sudarshan Indian Institute of Technology, Bombay
 Thomas right rule is used.
 
-Run from terminal
+Run from terminal.
 sample input: st1; st2; w1(A); r2(B); w1(B)
 
 Suppose a transaction Ti issues a read(Q)
